@@ -1,0 +1,27 @@
+/* Navigation */
+
+.nav-logo {
+  max-width: 100%;
+  height: 2rem;
+  display: block;
+}
+
+/* Background*/
+
+body {
+  background-color: #1F5FAF
+}
+
+/*Buttons */
+
+.p-button--brand {
+   margin-top: 32px;
+   width: auto;
+}
+
+/*Coming soon */
+
+.coming-soon {
+  padding-top: 32px;
+  color: #fff
+}
