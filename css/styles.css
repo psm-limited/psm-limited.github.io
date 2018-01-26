@@ -1,7 +1,4 @@
-/* Font*/
-font-family: 'Ropa Sans', sans-serif;
-
-/* Background*/
+/* Background */
 body {
   background-color: #1F5FAF;
 }
@@ -12,9 +9,14 @@ body {
    width: auto;
 }
 
+/*Main content */
 #main-content {
   color: #fff;
   height: calc(100vh - 90px);
   flex-direction: column;
   justify-content: center;
 }
+
+font-family: 'Ropa Sans', sans-serif;
+
+
