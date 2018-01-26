@@ -1,5 +1,6 @@
 /* Font */
-body {
+body,
+p {
   font-family: 'Ropa Sans', sans-serif;
 }
 
@@ -8,8 +9,7 @@ h2,
 h3,
 h4,
 h5,
-h6,
-p {
+h6 {
   font-family: 'Ropa Sans', sans-serif;
 }
 
